@@ -142,7 +142,7 @@ public class Canvas
         else if(colorString.equals("lightgray"))
             graphic.setColor(Color.lightGray);
         else if(colorString.equals("cyan"))
-            graphic.setColor(Color.CYAN);
+            graphic.setColor(Color.CYAN);    
         else
             graphic.setColor(Color.black);
     }

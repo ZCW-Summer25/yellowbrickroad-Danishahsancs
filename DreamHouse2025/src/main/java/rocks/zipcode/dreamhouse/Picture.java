@@ -48,6 +48,11 @@ public class Picture
     private Circle cloud7;
     private Circle cloud8;
     private Circle cloud9;
+    private Square treestem;
+    private Triangle tree1;
+    private Triangle tree2;
+    private Triangle tree3;
+
 
 
     /**
@@ -312,8 +317,34 @@ public class Picture
         cloud9.makeVisible();
 
         
-
+        treestem = new Square();
+        treestem.changeColor("black");
+        treestem.changeSize(50, 10);
+        treestem.moveVertical(130);
+        treestem.moveHorizontal(-30);
+        treestem.makeVisible();
        
+        tree1 = new Triangle();
+        tree1.changeColor("green");
+        tree1.changeSize(40, 60);
+        tree1.moveVertical(130);
+        tree1.moveHorizontal(-15);
+        tree1.makeVisible();
+
+        tree2 = new Triangle();
+        tree2.changeColor("green");
+        tree2.changeSize(40, 60);
+        tree2.moveVertical(110);
+        tree2.moveHorizontal(-15);
+        tree2.makeVisible();
+
+        tree3 = new Triangle();
+        tree3.changeColor("green");
+        tree3.changeSize(40, 60);
+        tree3.moveVertical(90);
+        tree3.moveHorizontal(-15);
+        tree3.makeVisible();
+        
     }
 
     /**
