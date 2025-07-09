@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/UsTRnWuD)
 # YellowBrickRoad (Week 1)
 
 _week 1 of ZCW_
@@ -96,3 +97,6 @@ Even though these blogs are primarily for your learning, WriteFreely's federatio
 The platform's simplicity means faster loading times and fewer distractions, which is perfect for regular writing habits. Set up a routine—maybe Friday afternoon reflections or Tuesday project posts—and stick to it. The clean interface makes it easy to just start writing without getting bogged down in formatting decisions.
 
 So, you see, these posts are not just about coding skills but also about how you approach challenges, learn from mistakes, and grow as a professional. They showcase your ability to communicate effectively, think critically, and adapt to new situations - all essential qualities for success in any career.
+
+
+i added this new lines 
